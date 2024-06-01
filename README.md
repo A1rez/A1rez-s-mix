@@ -1,6 +1,6 @@
-# Document Generator
+# Certificate-Generator
 
-This project automates the generation of documents based on a template and data from a spreadsheet. The generated documents are saved in both DOCX and PDF formats.
+This project automates the generation of documents based on a template and data from a spreadsheet. The template must be on the format DOCX and the spreadsheet on XlSX. The generated documents are saved in both DOCX and PDF formats.
 
 ## How to Use
 
